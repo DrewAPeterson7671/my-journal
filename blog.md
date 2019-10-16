@@ -20,8 +20,10 @@
 3. Check in to hotel.
 4. Lose yourself in debauchery.
 
+\*This is how you get literal asterisks, even in Vegas.\*
 
-
-
+### How to access the elevator with block text
+  > Using block quote
+  > inside an item looks like this
 
 [Click here](https://www.blackjackapprenticeship.com/blackjack-strategy-charts/) to learn blackjack!
